@@ -1,0 +1,16 @@
+{
+    "autoload":{
+        "psr-4": {
+            "App\\":"App/"
+        }
+    },
+    "require": {
+        "illuminate/database": "^5.6",
+        "illuminate/events": "^5.6",
+        "illuminate/console": "^5.6",
+        "illuminate/auth": "^5.6",
+        "illuminate/http": "^5.6",
+        "illuminate/view": "^5.6",
+        "illuminate/routing": "^5.6"
+    }
+}
